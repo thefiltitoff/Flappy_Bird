@@ -5,7 +5,7 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.mygdx.game.MyGame;
 
-import sprites.Bird;
+import com.mygdx.game.sprites.Bird;
 
 public class PlayState extends State{
 
