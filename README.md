@@ -1,1 +1,1 @@
-<h1 allign="centre"> Mobile Game fo Android </h1>
+<h1 align="centre"> Mobile Game for Android </h1>
