@@ -16,9 +16,9 @@
   
 ## Table of Contents
 
- - [Installation](#instalation)
- - [Run Locally](#run-localy)
- - [Tech Stack](#tech-stach)
+ - [Installation](#installation)
+ - [Run Locally](#run-locally)
+ - [Tech Stack](#tech-stack)
  - [Screenshots](#screenshots)
 
   
