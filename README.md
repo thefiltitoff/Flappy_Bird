@@ -8,9 +8,6 @@
 [![libGDX](https://img.shields.io/badge/libGDX-1.9.12-red)](https://libgdx.com)
 [![Gradle](https://img.shields.io/badge/Gradle-6.7-%2302303A)](https://gradle.org)
 
-
-  
-###### Simple mobile game for Android. The game has created in order to get acquainted with the Android Studio IDE.
  </div>
 
   
