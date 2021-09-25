@@ -2,15 +2,15 @@
 <h1 align="center"> Flappy Bird for Android </h1>
 
 
-
+<div align="center">
 
 [![Java](https://img.shields.io/badge/Java-17-yellow)](https://www.java.com/)
 [![libGDX](https://img.shields.io/badge/libGDX-1.9.12-red)](https://libgdx.com)
 [![Gradle](https://img.shields.io/badge/Gradle-6.7-%2302303A)](https://gradle.org)
 
+ </div>
   
 ###### Simple mobile game for Android. The game has created in order to get acquainted with the Android Studio IDE.
-
 
 
   
@@ -49,7 +49,6 @@ For install the game, you should download [APK-file](https://github.com/filtitov
 * Gradle
 * libGDX
 
-
   
 ## Screenshots
 
@@ -57,4 +56,6 @@ For install the game, you should download [APK-file](https://github.com/filtitov
 ![App Screenshot](https://github.com/filtitov2001/Flappy_Bird/blob/master/assets/second_screen.png)
 
 
-  
+ ## Copyright
+
+Copyright © 2020 by [Felix Titov](https://github.com/filtitov2001)
