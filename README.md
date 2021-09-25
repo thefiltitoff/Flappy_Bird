@@ -53,8 +53,8 @@ For install the game, you should download [APK-file](https://github.com/filtitov
   
 ## Screenshots
 
-![App Screenshot](https://github.com/filtitov2001/Flappy_Bird/blob/master/assets/first_screen.png)
-![App Screenshot](https://github.com/filtitov2001/Flappy_Bird/blob/master/assets/second_screen.png)
+![App Screenshot](https://github.com/filtitov2001/Flappy_Bird/assets/first_screen.png)
+![App Screenshot](https://github.com/filtitov2001/Flappy_Bird/assets/second_screen.png)
 
  
  ## Copyright
